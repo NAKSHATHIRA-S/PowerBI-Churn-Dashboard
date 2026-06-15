@@ -1,4 +1,4 @@
-# PowerBI-Churn-Dashboard
+
 # 📊 Customer Churn Analysis (Power BI)
 
 ## 🧠 Project Overview
@@ -6,13 +6,9 @@ This project is a Power BI dashboard built to analyze customer churn behavior in
 
 The dashboard provides insights into customer demographics, subscription patterns, service usage, and billing behavior to support data-driven decision-making.
 
----
-
 ## 📁 Dataset
 - Telecom customer churn dataset (open-source / GitHub dataset)
 - Contains customer demographics, services, contract details, and billing information
-
----
 
 ## 🎯 Objectives
 - Analyze customer churn patterns
@@ -20,7 +16,6 @@ The dashboard provides insights into customer demographics, subscription pattern
 - Understand impact of contract type, services, and charges
 - Provide business insights for customer retention strategies
 
----
 
 ## 📊 Key Insights
 - 📌 1869 customers identified at risk of churn  
@@ -30,7 +25,6 @@ The dashboard provides insights into customer demographics, subscription pattern
 - 🛠️ Tech support and admin tickets impact customer retention  
 - 📺 Streaming services usage analyzed for behavior patterns  
 
----
 
 ## 📈 Dashboard Features
 - KPI cards (Churn risk, revenue, tickets)
@@ -40,7 +34,6 @@ The dashboard provides insights into customer demographics, subscription pattern
 - Internet service usage breakdown
 - Interactive filters & slicers
 
----
 
 ## 🛠️ Tools Used
 - Power BI Desktop
@@ -48,7 +41,6 @@ The dashboard provides insights into customer demographics, subscription pattern
 - Data Cleaning & Transformation
 - Data Visualization
 
----
 
 ## 🚀 Key Learnings
 - Data visualization for business insights
@@ -56,14 +48,12 @@ The dashboard provides insights into customer demographics, subscription pattern
 - KPI creation using DAX
 - Building interactive dashboards
 
----
 
 ## 📌 Project Status
 ✔ Completed  
 ✔ Fully visualized dashboard  
 ✔ Ready for portfolio & interview discussion  
 
----
 
 ## 👩‍💻 Author
 **Nakshathira S**  
